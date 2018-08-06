@@ -1,3 +1,8 @@
+# IMPORTANT NOTE:
+This repository is a work-in-progress.
+
+
+
 # R-Ladies Gives Back
 
 R-Ladies around the world often make amazing contributions and collaborations, that directly impact the R community, but also organizations, ONGs, and other groups.
