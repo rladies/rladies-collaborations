@@ -19,7 +19,7 @@ Collaborations and contributions can be a wide range of activities.
 
 ## Submit Your Contribution
 To submit a new contribution, please follow these steps:
-1. Download the we have available. Use a text-processor to fill all the pertinent data. Remember that it does not have to be really detailed, but it can be an overall description.
+1. Download the template we have available. Use a text-processor to fill all the pertinent data. Remember that it does not have to be really detailed, but it can be an overall description.
    - Template: [DOCX File](/resources/Template.docx) or [ODT File](/resources/Template.odt)
 1. Convert your document to PDF, and name it `ChapterCity and [thirdParty].pdf`. Replace the `[thirdParty]` for the name of your event, the organization or people involved. 
    - If several R-Ladies chapters contributed to the same event, you can: (a) put the name of a geographic region, or (b) list their names if they are up to three chapters.
@@ -35,4 +35,4 @@ If you are unsure if something is a contribution, you can make an issue on the r
 - Sina Rüeger, R-Ladies Lausanne. User: [sinarueeger](https://github.com/sinarueeger)
 - Bea Hernández, R-Ladies Madrid. User: [chucheria](https://github.com/chucheria)
 - Kim Fitter, R-Ladies Auckland. User: [kimnewzealand](https://github.com/kimnewzealand)
-- Praveena Mathews, R-Ladies Chennai. User: []()
+- Praveena Mathews, R-Ladies Chennai. User: [pjmathews](https://github.com/pjmathews)
