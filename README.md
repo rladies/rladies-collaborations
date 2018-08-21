@@ -8,7 +8,10 @@ This repository is a work-in-progress.
 R-Ladies around the world often works with organizations, ONGs, and other groups, producing contributions, participation, involvement or associations of talks, workshops, projects, conference, etc. And they directly impact the R community.
 
 ## Goals
-This repository aims to document all of these collaborations. There are three main goals for this. First, chapters can use this information to introduce R-Ladies and its work. Second, readers and other people can know what we do and how we work with our non-R communities. Third and finally, R-Ladies can have a portfolio of this activities.
+This repository aims to document all of these collaborations. There are three main goals for this repository:
+1. This repository aims to capture these R-Ladies collaborations in a single portfolio.
+1. R-Ladies chapters can use this information to introduce R-Ladies and its work.
+1. Readers and other people can see what we do and how we work with our R and non-R communities.
 
 ## What are Contributions?
 Collaborations and contributions can be a wide range of activities.
