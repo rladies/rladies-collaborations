@@ -5,7 +5,7 @@ This repository is a work-in-progress.
 
 # R-Ladies Collaborations
 
-R-Ladies around the world often works with organizations, ONGs, and other groups, producing contributions, participation, involvement or associations of talks, workshops, projects, conference, etc. Through such collaborations R-Ladies impacts the R community as well as non-R communities.
+R-Ladies around the world often work with organizations, ONGs, and other groups, producing contributions, participation, involvement or associations of talks, workshops, projects, conference, etc. Through such collaborations R-Ladies impacts the R community as well as non-R communities.
 
 ## Goals
 This repository aims to document all of these collaborations. There are three main goals for this repository:
