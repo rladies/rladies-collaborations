@@ -10,7 +10,7 @@ R-Ladies around the world often work with organizations, ONGs, and other groups,
 ## Goals
 This repository aims to document all of these collaborations. There are three main goals for this repository:
 1. This repository aims to capture these R-Ladies collaborations in a single portfolio.
-1. R-Ladies chapters can use this information to introduce R-Ladies and its work.
+1. R-Ladies chapters can use this information to introduce R-Ladies and their work.
 1. Readers and other people can see what we do and how we work with our R and non-R communities.
 
 ## What are Contributions?
