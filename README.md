@@ -30,7 +30,8 @@ To submit a new contribution, please follow these steps:
     - If your collaboration/event started in one year, and ended on the next one, please upload _in the starting year folder_.   
 1. Once your file is ready, make a Pull Request (PR) for the RMarkdown file. Available curators will review your submission, and make any suggestion if neccesary.
     - If there are revisions to make, you will have to update the PR, until approved.
-    - Once the review is approved, _knit_ your RMarkdown file to create an `*.html` file, and make a new PR for the HTML file. This will be instantly approved.
+    - Once the review is approved, _knit_ your RMarkdown file to create an `*.pdf` file, and make a new PR for the PDF file. This will be instantly approved. 
+    - If you are working on Linux, you may need to install some system packages to get the RMarkdown to work properly. [Check this help](https://dzone.com/articles/installing-latex-ubuntu).
 
 
 
