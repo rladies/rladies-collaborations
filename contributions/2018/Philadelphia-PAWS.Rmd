@@ -1,0 +1,59 @@
+---
+title: "R-Ladies Philadelphia for Philadelphia Animal Welfare Society (PAWS) | [March-September 2018]"
+author: "R-Ladies Philadelphia"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+## Groups Involved
+
+### Chapter
+<img src="http://rladiesphilly.org/img/phillylogo.png" width="80" style="float: right;"/> R-Ladies Philadelphia
+
+ - [http://http://rladiesphilly.org](http://rladiesphilly.org)
+ - [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly/)
+ - [https://twitter.com/rladiesphilly](https://twitter.com/rladiesphilly).]
+<p></p>
+
+
+### Organization
+<img src="https://www.facebook.com/173336599365294/photos/746845415347740/" width="80" style="float: right;"/> PAWS is a 501(c)3 non-profit organization dedicated to saving Philadelphia’s homeless and at-risk animals. PAWS is the city’s largest rescue partner and provider of low-cost, basic veterinary care for pet owners and rescue organizations that cannot otherwise access or afford it. Through its three no-kill shelters, foster care network, and special events, PAWS finds loving homes for thousands of animals each year. PAWS is working to make Philadelphia a no-kill city where every healthy and treatable pet is guaranteed a home.
+
+ - [https://phillypaws.org]().]
+<p></p>
+
+
+## Activity
+Data analysis from R-Ladies chapter for the organization.
+
+### Coordination
+R-Ladies Philadelphia coordinated everything online via their chapter’s Slack and shared analyses over a private GitHub account. Of the approximately 10 R-Ladies Philly members who originally expressed interest in participating in the project, 4 actively contributed to the analyses. 
+
+### Time Schedule
+Conversations with PAWS started in February 2018, and R-Ladies Philadelphia obtained the data in early March 2018. The report was sent back by the end of April 2018. In May 2018, R-Ladies Philadelphia met with PAWS leadership to discuss the report and next steps. In June 2018, a follow-up analysis was requested and that report was submitted to PAWS in September 2018.
+
+### Goals
+ 1. Help the organization analyze its data
+ 2. Learn R and Git while using real data
+ 
+## Analysis and Results
+Data analysis included descriptive, plots, regressions, geo-mapping, and survival analysis.
+
+### Data analysis description
+Examples of questions addressed:
+- How many volunteers sign up by month, at each location of the shelter? 
+- How long is the volunteer onboarding process and how does this affect volunteer engagement?
+- Of the people who attend orientation, how many do show up for a first shift?
+All of these answers were split by location and type of volunteer shift (i.e. cat care, dog care, and so on).
+
+### Obtaining the Data
+An R-Ladies Philly member who was also a long-term volunteer at PAWS approached R-Ladies leadership with the idea for a collaboration. After the go-ahead, this member approached PAWS leadership to discuss the project and obtain the data.
+
+### Results
+There is a privacy and no-disclosure agreement between PAWS and R-Ladies Philadelphia. Thus, specific results cannot be shared. However, the findings did highlight key aspects in the volunteer engagement process that can be improved in order to increase retention and engage more volunteers. Based on the findings from data analysis and on knowledge of PAWS operations, the report listed six recommendations for change.
+
+### Other Experiences
+It was important to give PAWS staff an idea of what kind of questions could be answered from the data and how these could be useful to them, in order to jumpstart the brainstorming process for the questions most valuable to them. It was also important to be respectful of their time and actively try to not ask for too much time from them. Additionally, one of the challenges was creating the structure of the collaboration among R-Ladies so that it would be a valuable learning opportunity while also enhancing the analytics work process. 
