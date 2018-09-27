@@ -13,16 +13,16 @@ knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 ### Chapter
 <img src="http://rladiesphilly.org/img/phillylogo.png" width="80" style="float: right;"/> R-Ladies Philadelphia
 
- - [http://http://rladiesphilly.org](http://rladiesphilly.org)
- - [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly/)
- - [https://twitter.com/rladiesphilly](https://twitter.com/rladiesphilly).]
+ - [http://rladiesphilly.org](http://rladiesphilly.org)
+ - [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly)
+ - [https://twitter.com/rladiesphilly](https://twitter.com/rladiesphilly)
 <p></p>
 
 
 ### Organization
 <img src="https://www.facebook.com/173336599365294/photos/746845415347740/" width="80" style="float: right;"/> PAWS is a 501(c)3 non-profit organization dedicated to saving Philadelphia’s homeless and at-risk animals. PAWS is the city’s largest rescue partner and provider of low-cost, basic veterinary care for pet owners and rescue organizations that cannot otherwise access or afford it. Through its three no-kill shelters, foster care network, and special events, PAWS finds loving homes for thousands of animals each year. PAWS is working to make Philadelphia a no-kill city where every healthy and treatable pet is guaranteed a home.
 
- - [https://phillypaws.org]().]
+ - [https://phillypaws.org](https://phillypaws.org)
 <p></p>
 
 
