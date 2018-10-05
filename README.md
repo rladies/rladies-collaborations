@@ -23,15 +23,15 @@ Collaborations and contributions can be a wide range of activities.
 ## Submit Your Collaboration
 To submit a new contribution, please follow these steps:
 
-1. Clone this repository or download the zip file to your computer.
+1. Fork this repository to your own GitHub account.
 1. Copy the [template](/resources/template.Rmd) and name it `ChapterCity-Organization.Rmd`. Use your chapter name (`ChapterCity`) and the organization's name on the title (`Organization`).
 1. Locate the file in the corresponding folder. This should be at: `contributions -> year`, where `year` is the year in which the collaboration took part.
     - If several R-Ladies chapters contributed to the same event, you can: (a) put the name of a geographic region, or (b) list their names if they are not more than three chapters (e.g. `ChapterCity1-ChapterCity2-ChapterCity3-Organization.Rmd`).
     - If your collaboration/event started in one year, and ended on the next one, please upload _in the starting year folder_.   
 1. Once your file is ready, make a Pull Request (PR) for the RMarkdown file. Available curators will review your submission, and make any suggestion if neccesary.
     - If there are revisions to make, you will have to update the PR, until approved.
-    - Once the review is approved, _knit_ your RMarkdown file to create an `*.pdf` file, and make a new PR for the PDF file. This will be instantly approved. 
     - If you are working on Linux, you may need to install some system packages to get the RMarkdown to work properly. [Check this help](https://dzone.com/articles/installing-latex-ubuntu).
+1. Once the review is approved, _knit_ your RMarkdown file to create an `*.html` file, and make a new PR for the HTML file. This will be instantly approved. 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: "R-Ladies [your city] for [the organization] | [months & year]"
 author: "[Your city chapter]"
-output: pdf_document
+output:
+  html_document: default
+  md_document: default
 ---
 
 ```{r setup, include=FALSE}
