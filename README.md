@@ -24,7 +24,7 @@ Collaborations and contributions can be a wide range of activities.
 To submit a new contribution, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
-1. Copy the [template](/resources/template.Rmd) and name it `ChapterCity-Organization.Rmd`. Use your chapter name (`ChapterCity`) and the organization's name on the title (`Organization`).
+1. Copy the [template](resources/template.Rmd) and name it `ChapterCity-Organization.Rmd`. Use your chapter name (`ChapterCity`) and the organization's name on the title (`Organization`).
 1. Locate the file in the corresponding folder. This should be at: `contributions -> year`, where `year` is the year in which the collaboration took part.
     - If several R-Ladies chapters contributed to the same event, you can: (a) put the name of a geographic region, or (b) list their names if they are not more than three chapters (e.g. `ChapterCity1-ChapterCity2-ChapterCity3-Organization.Rmd`).
     - If your collaboration/event started in one year, and ended on the next one, please upload _in the starting year folder_.   
