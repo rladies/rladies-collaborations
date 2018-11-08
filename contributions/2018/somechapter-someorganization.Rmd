@@ -1,0 +1,81 @@
+---
+title: "R-Ladies Somecity for someorganization | May 2018"
+author: "R-Ladies Somecity"
+output:
+  html_document: default
+  md_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+## Groups Involved
+
+### Chapter
+<img src="https://avatars1.githubusercontent.com/u/21295846" width="80" style="float: right;"/> 
+
+ - _[https://www.meetup.com](https://www.meetup.com)_
+ - _[https://www.twitter.com/RLadiesChapterTwitter](https://www.twitter.com/yourTwitter).]_
+<p></p>
+
+
+### Organization
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8s9oF5vaT3npQZ_RKCr7UiYT7DCxj0UAQ24De9vloXJF_AD-Hg" width="80" style="float: right;"/> _[The organization you collaborated with. You can add a brief summary of what they do. Link their social sites or website, if they exist. Add their logo if you have it, otherwise, please remove the HTML code for the image._
+
+ - _[The organization's website]().]_
+<p></p>
+
+
+## Activity
+_[Write here what the activity was about. E.g.Helping the organization? Organizing an event? Practicing R skills with real data?]_
+
+### Coordination
+_[How did you coordinate the collaboration with the organization and within the R-Ladies chapter? How did people got invited to participate, which rules were applied for participating?]_
+
+### Time Schedule
+_[How much time did this collaboration require from beginning to end? Please provide a list with important milestones. An example would be:_
+
+ - _February 2018: We approached organization A about the project._
+ - _March 2018: We asked within R-Ladies chapter B for volunteers and we established a code of conduct._
+ - _April 2018: We did the data analysis, and prepared an RMardown report, which was then presented to organization A.]_
+
+
+### Goals
+_[What was the goal of the collaboration? Examples are: help the organization analyze its data, give back to a specific community, organize an even while generating awareness on a topic, learning an R topic while using real data, and so on. If there are multiple goals, the best thing is to use items:_
+
+ 1. _Main goal would go here._
+    - _Specific aims of the main goal._
+ 2. _Another main goal._
+ 3. _Another critical goal.]_
+
+
+
+## Analysis and Results
+_[Share how the project ended, results, goals reached and other experiences.]_
+
+### Data analysis description
+_[This applies only if you were doing an analysis collaboration, and not an event. In that case, if you cannot share the process you followed, you can list the exploratory questions you tried to solve, and list which types of analysis/R packages you used for this.]_
+
+### Obtaining the Data
+_[If a data analysis was involved: how did you obtained the data? Did you have to ask for it, or did the organization offer it?]_
+
+### Results
+_[How did the collaboration impacted on the organization? If you obtained results, and if you can share them -if there is no sharing restriction-, then you can even use charts!_
+
+_You can also embed plots, for example:_
+
+```{r pressure, echo=FALSE}
+# Get GGPLOT
+library(ggplot2)
+
+# Color and shape depend on factor (categorical variable)
+ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, color=Species, shape=Species)) + 
+    geom_point(size=6, alpha=0.6)
+```
+
+_There is no limit to this section - share as much as you can!]._
+
+
+### Other Experiences
+_[Any summary of what did your chapter learned, what would you improve, what would you recommend.]_
