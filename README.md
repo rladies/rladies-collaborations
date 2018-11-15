@@ -1,7 +1,3 @@
-# IMPORTANT NOTE:
-This repository is a work-in-progress.
-
-
 
 # R-Ladies Collaborations
 
