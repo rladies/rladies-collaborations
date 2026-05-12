@@ -39,8 +39,8 @@ If you are unsure if something is a contribution, you can make an issue on the r
 
 ## Current Curators
 
-- Melina Vidoni, RLadies+ Santa Fe. User: [melvidoni](https://github.com/melvidoni)
-- Sina Rüeger, RLadies+ Lausanne. User: [sinarueeger](https://github.com/sinarueeger)
-- Praveena Mathews, RLadies+ Chennai. User: [pjmathews](https://github.com/pjmathews)
+- Melina Vidoni, R-Ladies Santa Fe. User: [melvidoni](https://github.com/melvidoni)
+- Sina Rüeger, R-Ladies Lausanne. User: [sinarueeger](https://github.com/sinarueeger)
+- Praveena Mathews, R-Ladies Chennai. User: [pjmathews](https://github.com/pjmathews)
 
 Do you want to be a curator? Open a new issue, or contact us on the RLadies+ Global Slack. All the help is welcomed!
