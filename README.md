@@ -1,42 +1,46 @@
-
 # RLadies+ Collaborations
 
 RLadies+ around the world often work with organizations, ONGs, and other groups, producing contributions, participation, involvement or associations of talks, workshops, projects, conference, etc. And they directly impact the R community.
 
 ## Goals
+
 This repository aims to document all of these collaborations. There are three main goals for this repository:
+
 1. This repository aims to capture these RLadies+ collaborations in a single portfolio.
 1. RLadies+ chapters can use this information to introduce RLadies+ and its work.
 1. Readers and other people can see what we do and how we work with our R and non-R communities.
 
 ## What are Collaborations?
+
 Collaborations and contributions can be a wide range of activities.
+
 - They can be conferences, events or datathons organized by one or more chapters.
 - A data analysis for an organization made by an RLadies+ chapter. This does not have to be necessarily open to the whole chapter: it can be done by a group of RLadies+ members, it can have a confidentiality arrangement, and so on.
 - Workshops or training-sessions co-organized with other groups, or open to enterprises and/or organizations members.
 - Events in which foreign speakers (i.e. non-local) were proposed by an RLadies+ chapter, but an organization helped to bring them in-person to the meeting.
 
 ## Submit Your Collaboration
+
 To submit a new contribution, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
 1. Copy the [template](resources/template.Rmd) and name it `ChapterCity-Organization.Rmd`. Use your chapter name (`ChapterCity`) and the organization's name on the title (`Organization`).
 1. Locate the file in the corresponding folder. This should be at: `contributions -> year`, where `year` is the year in which the collaboration took part.
-    - If several RLadies+ chapters contributed to the same event, you can: (a) put the name of a geographic region, or (b) list their names if they are not more than three chapters (e.g. `ChapterCity1-ChapterCity2-ChapterCity3-Organization.Rmd`).
-    - If your collaboration/event started in one year, and ended on the next one, please upload _in the starting year folder_.   
+   - If several RLadies+ chapters contributed to the same event, you can: (a) put the name of a geographic region, or (b) list their names if they are not more than three chapters (e.g. `ChapterCity1-ChapterCity2-ChapterCity3-Organization.Rmd`).
+   - If your collaboration/event started in one year, and ended on the next one, please upload _in the starting year folder_.
 1. Once your file is ready, make a Pull Request (PR) for the RMarkdown file. Available curators will review your submission, and make any suggestion if neccesary.
-    - If there are revisions to make, you will have to update the PR, until approved.
-    - If you are working on Linux, you may need to install some system packages to get the RMarkdown to work properly. [Check this help](https://dzone.com/articles/installing-latex-ubuntu).
-1. Once the review is approved, _knit_ your RMarkdown file to create an `*.html` file, and make a new PR for the HTML file. This will be instantly approved. 
-
-
+   - If there are revisions to make, you will have to update the PR, until approved.
+   - If you are working on Linux, you may need to install some system packages to get the RMarkdown to work properly. [Check this help](https://dzone.com/articles/installing-latex-ubuntu).
+1. Once the review is approved, _knit_ your RMarkdown file to create an `*.html` file, and make a new PR for the HTML file. This will be instantly approved.
 
 ### Unsure About Submitting?
+
 If you are unsure if something is a contribution, you can make an issue on the repository, or you can contact current curators on both the _RLadies+ Global_ Slack, or at _RLadies+ Community_ Slack.
 
 ## Current Curators
-- Melina Vidoni, R-Ladies Santa Fe. User: [melvidoni](https://github.com/melvidoni)
-- Sina Rüeger, R-Ladies Lausanne. User: [sinarueeger](https://github.com/sinarueeger)
-- Praveena Mathews, R-Ladies Chennai. User: [pjmathews](https://github.com/pjmathews)
+
+- Melina Vidoni, RLadies+ Santa Fe. User: [melvidoni](https://github.com/melvidoni)
+- Sina Rüeger, RLadies+ Lausanne. User: [sinarueeger](https://github.com/sinarueeger)
+- Praveena Mathews, RLadies+ Chennai. User: [pjmathews](https://github.com/pjmathews)
 
 Do you want to be a curator? Open a new issue, or contact us on the RLadies+ Global Slack. All the help is welcomed!
